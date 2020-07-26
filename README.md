@@ -13,3 +13,6 @@ Description :
 4. Sends email using SNS service
 5. Save results to a DynamoDB table
 <pre>
+
+
+refer to this article for the implementation details - http://i-cloudconsulting.com/amazon-transcribe-and-comprehend-detect-sentiment/
